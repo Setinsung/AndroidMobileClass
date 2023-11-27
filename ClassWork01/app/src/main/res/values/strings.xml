@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">KaBoZiApp</string>
+    <string name="main_title">我国突破“卡脖子”技术介绍</string>
+    <string name="main_button">进入</string>
+    <string name="back_button">返回</string>
+</resources>
